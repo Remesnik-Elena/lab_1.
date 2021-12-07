@@ -1,1 +1,1 @@
-Над проектом работают три разработчика: First, Second_Name, Third..
+Над проектом работают три разработчика: First_Name, Second_Name, Third..
